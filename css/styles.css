@@ -68,6 +68,11 @@ h4 {
     text-align: center;
 }
 
+.footer {
+  position: absolute;
+  bottom: 0;
+}
+
 .footer_div {
     position: absolute;
     left: 0%;
