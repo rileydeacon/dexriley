@@ -69,12 +69,12 @@ h4 {
 }
 
 .footer {
-  position: absolute;
+  position: fixed;
   bottom: 0;
 }
 
 .footer_div {
-    position: absolute;
+    position: fixed;
     left: 0%;
     right: 0%;
     bottom: 0%;
