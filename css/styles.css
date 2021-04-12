@@ -16,7 +16,7 @@ h1 {
 h2 {
     color: black;
     padding-bottom: 0px;
-    font-size: 5em;
+    font-size: 15vw;
 }
 
 h4 {
@@ -33,7 +33,7 @@ h4 {
 }
 
 .top {
-    padding-top: 25px;
+    padding-top: 1.5vh;
     text-align: center;
     display: block;
     justify-content: center;
@@ -104,11 +104,10 @@ a {
 }
 
 .main_content {
-    padding-top: 12px;
+    padding: 15px;
     text-align: center;
     display: block;
     justify-content: center;
-    padding-bottom: 20vh;
 }
 
 .spotify {
